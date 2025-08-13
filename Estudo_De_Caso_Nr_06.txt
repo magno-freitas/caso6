@@ -1,0 +1,23 @@
+ESTUDO DE CASO NR 6 – DevSoft Solutions
+Objetivo: Aplicar os conceitos aprendidos configurando um sistema de controle de acesso e
+realizando simulações.
+A empresa fictícia "SegurTI" precisa implementar um sistema seguro para autenticação e
+autorização de usuários. O sistema deve contemplar pelo menos dois níveis de acesso:
+Administrador e Usuário Comum.
+Passos para execução da atividade:
+1. Formar equipes de até 4 integrantes.
+2. Criar uma tabela de usuários (nome, email, senha, função – admin, usuario).
+3. Definir permissões para cada nível de acesso.
+4. Implementar regras de autenticação simuladas (em planilha, pseudocódigo ou ferramenta
+online).
+5. Simular tentativas de acesso válidas e inválidas.
+6. Registrar logs de acesso (sucesso/falha).
+7. Preparar um breve relatório com a descrição do sistema, fluxo de autenticação e
+autorização, regras de permissões e resultados da simulação.
+Modelo de Tabela de Usuários e Permissões:
+Nome email Senha Função
+Ana Souza ana.s ****** Administrador
+João Lima joao.l ****** Usuário Comum
+Apresentação:
+Cada grupo terá 5 a 10 minutos para apresentar o sistema desenvolvido, explicando a lógica de
+segurança adotada.
